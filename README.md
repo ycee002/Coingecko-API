@@ -1,1 +1,1 @@
-# Coingecko-API
+# Coingecko API
